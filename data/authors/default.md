@@ -5,7 +5,7 @@ occupation: 这是职业
 company: 这是公司
 email: tiancai@dzaaaaaa.com
 twitter: https://twitter.com/Twitter
-bilibili: https://www.bilibili.com
+bilibili: https://space.bilibili.com/403504801
 github: https://github.com/Tualin14
 ---
 

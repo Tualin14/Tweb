@@ -1,7 +1,7 @@
 const projectsData = [
   {
-    title: "OneYun",
-    description: `OneDrive OSS`,
+    title: "OneSS",
+    description: `... based on OneDrive`,
     imgSrc: "/static/images/dzaaaaaa.png",
     href: "https://oneyun.dzaaaaaa.com"
   }
