@@ -3,7 +3,14 @@ const globby = require("globby");
 const siteMetadata = require("../data/siteMetadata")
 
 ;(async () => {
-  const pages = await globby(["pages/*.js", "data/blog/**/*.mdx", "data/blog/**/*.md", "public/tags/**/*.xml", "!pages/_*.js", "!pages/api"]);
+  const pages = await globby([
+    "pages/*.js",
+    "data/blog/**/*.mdx",
+    "data/blog/**/*.md",
+    "public/tags/**/*.xml",
+    "!pages/_*.js",
+    "!pages/api"
+  ]);
 
   const sitemap = `
         <?xml version="1.0" encoding="UTF-8"?>
@@ -27,7 +34,7 @@ const siteMetadata = require("../data/siteMetadata")
     .join("")}
         </urlset>
     `;
-  
+
   // eslint-disable-next-line no-sync
-  fs.writeFileSync("public/sitemap.xml");
+  fs.writeFileSync("public/sitemap.xml", sitemap);
 })();
