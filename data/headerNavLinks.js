@@ -1,8 +1,8 @@
 const headerNavLinks = [
-  { href: '/简牍', title: '简牍' },
-  { href: '/牙黎', title: '牙黎' },
-  { href: '/雅物', title: '雅物' },
-  { href: '/朕', title: '朕' },
+  { href: '/blog', title: '简牍' },
+  { href: '/tags', title: '牙黎' },
+  { href: '/projects', title: '雅物' },
+  { href: '/about', title: '朕' },
 ]
 
 export default headerNavLinks
