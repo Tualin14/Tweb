@@ -24,7 +24,7 @@ export default function Blog({ posts, initialDisplayPosts, pagination }) {
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
-        title="簡 牘"
+        title="简牍"
       />
     </>
   )
