@@ -1,9 +1,9 @@
 const projectsData = [
   {
     title: "OneSS",
-    description: `... based on OneDrive`,
+    description: `Onedrive Sharing System`,
     imgSrc: "/static/images/dzaaaaaa.png",
-    href: "https://oneyun.dzaaaaaa.com"
+    href: "https://oness.dzaaaaaa.com"
   }
 ];
 
