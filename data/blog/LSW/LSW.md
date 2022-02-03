@@ -15,7 +15,7 @@ summary: "LSW"
 
 # 组成
 
-* 个人文件存储系统OSS，目前以[OneSS](/Oness)拟合
+* 个人文件存储系统OSS，目前以[OneSS](http://oness.dzaaaaaa.com)拟合
 * 
 * 
 * 基于xx的IM
