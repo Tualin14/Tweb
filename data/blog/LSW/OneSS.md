@@ -14,6 +14,6 @@ summary: "OneSS功能测试"
 
 # 视频测试
 
-<video src="https://oness.dzaaaaaa.com/api/download?user=share@dzaaaaaa.com&id=013EY5Y6ACPBMG7LJVMVD3OTWRH45P3HBF" width="800px" height="400px" controls="controls"><video>
+<video src="https://oness.dzaaaaaa.com/api/download?user=share@dzaaaaaa.com&id=013EY5Y6ACPBMG7LJVMVD3OTWRH45P3HBF" width="800px" height="400px" controls="controls"/>
 
 
