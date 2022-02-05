@@ -14,7 +14,7 @@ summary: "OneSS功能测试"
 
 # 音频测试
 
-<audio src="https://oness.dzaaaaaa.com/api/download?user=share@dzaaaaaa.com&id=013EY5Y6AKRGS2HHECZVDJNR55I7KXXSCV" controls="controls"/>
+<audio src="https://oness.dzaaaaaa.com/api/download?user=share@dzaaaaaa.com&id=013EY5Y6EYHDFJTKHS3VHJ2JJJTNPKPD3J" controls="controls"/>
 
 # 视频测试
 
