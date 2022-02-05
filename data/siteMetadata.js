@@ -11,7 +11,7 @@ const siteMetadata = {
   socialBanner: "/static/images/twitter-card.png",
   email: "tiancai@dzaaaaaa.com",
   github: "https://github.com/Tualin14",
-  twitter: "https://twitter.com/Twitter",
+  twitter: "https://twitter.com/OliviaiDT",
   youtube: "https://youtube.com",
   bilibili: "https://space.bilibili.com/403504801",
   locale: "zn-cn",
