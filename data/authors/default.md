@@ -4,7 +4,7 @@ avatar: /static/images/dzaaaaaa.png
 occupation: 这是职业
 company: 这是公司
 email: tiancai@dzaaaaaa.com
-twitter: https://twitter.com/Twitter
+twitter: https://twitter.com/OliviaiDT
 bilibili: https://space.bilibili.com/403504801
 github: https://github.com/Tualin14
 ---
