@@ -1,7 +1,7 @@
 ---
 title: "OneSS"
 date: "2022-2-1"
-tags: ["WSL", "OneSS"]
+tags: ["LSW", "OneSS"]
 draft: false
 summary: "OneSS功能测试"
 ---
