@@ -3,6 +3,9 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 module.exports = withBundleAnalyzer({
+  images: {
+    domains: ['oness.dzaaaaaa.com'],
+  },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
