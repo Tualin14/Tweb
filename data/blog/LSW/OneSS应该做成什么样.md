@@ -1,5 +1,5 @@
 ---
-title: "OneSS"
+title: "OneSS 应该做成什么样"
 date: "2022-2-1"
 tags: ["LSW", "OneSS"]
 draft: false
@@ -8,7 +8,9 @@ summary: "OneSS应该做成什么样"
 
 # OneSS 应该做成什么样
 
-[Github](https://github.com/Tualin14/OneSS)
+项目页: [Github](https://github.com/Tualin14/OneSS)
+
+# 对项目的初步设想
 
 ## 应当完成什么？
 
@@ -47,4 +49,4 @@ summary: "OneSS应该做成什么样"
 - 通过多用户功能可以实现组内成员分工，由组长建立 E5 开发者账号，再给组员分配子账号，如分别建立游戏，影视两个账号分给相应负责人员或小组，实现由组长统一带领，小组间互不干扰。
 - 可直接分享相应文件链接(文件页或文件下载)到合适位置
 
-## LSW
+# LSW
