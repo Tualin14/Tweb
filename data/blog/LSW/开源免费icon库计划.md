@@ -20,8 +20,7 @@ summary: "开源免费icon库计划"
   - 单色
     - 优先 Outlined，Filled 以后看需求
     - 参考: [Material Design icons](https://fonts.google.com/icons?selected=Material+Icons&icon.style=Outlined)
-- 规范
-  - 参考: [Material Design](https://material.io/design/iconography/system-icons.html)(浏览器自带翻译差不多就能看明白
+- 规范 参考: [Material Design](https://material-io.cn/design/iconography/system-icons.html)(浏览器自带翻译差不多就能看明白
 - 格式
   - 矢量 svg
 - 制作软件
