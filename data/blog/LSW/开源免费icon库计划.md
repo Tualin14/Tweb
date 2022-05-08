@@ -1,12 +1,12 @@
 ---
-title: "开源免费icon库计划"
+title: "xing-icons"
 date: "2022-4-18"
 tags: ["LSW", "icon"]
-draft: false
+draft: true
 summary: "开源免费icon库计划"
 ---
 
-# 名字待定
+# xing-icons
 
 - 开源免费
 
@@ -23,12 +23,6 @@ summary: "开源免费icon库计划"
 - 规范 参考: [Material Design](https://material-io.cn/design/iconography/system-icons.html)(浏览器自带翻译差不多就能看明白
 - 格式
   - 矢量 svg
-- 制作软件
-
-  建议 [Figma](https://www.figma.com/)
-
-  因为可以开团队协作，我可以在图标制作时同时做库
-
 - 协议
 
   待定
@@ -40,5 +34,3 @@ summary: "开源免费icon库计划"
   - 图标选择器
   - 预览网站
 - 协议
-
-  GPL-3.0
